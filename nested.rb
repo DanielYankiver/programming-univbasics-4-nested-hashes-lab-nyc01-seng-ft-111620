@@ -124,7 +124,7 @@ def adding_to_dennis
         :languages => ["COBOL", "FORTRAN"]
       },
       :alan_kay => {
-        :known_for => "Object Orientation",
+        :known_for => "GUI",
         :languages => ["Smalltalk", "LISP"]
       },
       :dennis_ritchie => {
@@ -132,6 +132,5 @@ def adding_to_dennis
         :languages => ["C"]
       }
     }
-   changing_alan[:alan_kay][:known_for] = "GUI"
    programmer_hash
 end
