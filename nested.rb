@@ -131,8 +131,9 @@ def adding_to_dennis
         :known_for => "Unix",
         :languages => ["C"]
       }
-    }
     changing_alan = "GUI"
     programmer_hash[:alan_kay][:known_for] = changing_alan
     programmer_hash
+    }
+    
 end
